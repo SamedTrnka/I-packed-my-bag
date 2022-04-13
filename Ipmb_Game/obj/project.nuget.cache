@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iNoW5+r2A8O2FRKymdGAEWK55W1EIvEHenFyzJf2G13tS+VUfJCJolL0nQypx15D5iJr5FlDz0AQSvuMQ16G3g==",
+  "success": true,
+  "projectFilePath": "D:\\Ipmb_Game\\Ipmb_Game\\Ipmb_Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2004s\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\2004s\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

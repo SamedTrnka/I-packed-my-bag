@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ipmb_Game", "Ipmb_Game\Ipmb_Game.csproj", "{E31D2C01-176B-4E58-B388-097CACFADE0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E31D2C01-176B-4E58-B388-097CACFADE0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E31D2C01-176B-4E58-B388-097CACFADE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E31D2C01-176B-4E58-B388-097CACFADE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E31D2C01-176B-4E58-B388-097CACFADE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00567B6D-0DD9-4678-9196-731F8ED3B6FB}
+	EndGlobalSection
+EndGlobal

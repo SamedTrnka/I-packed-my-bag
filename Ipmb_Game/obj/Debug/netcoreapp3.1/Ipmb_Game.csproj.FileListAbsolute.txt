@@ -1,0 +1,25 @@
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.exe
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\A Lonely Cherry Tree.wav
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\KlickSound.wav
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\MainMenuMusic.wav
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Melancholic Walk.wav
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.deps.json
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.runtimeconfig.json
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.runtimeconfig.dev.json
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Windows.Extensions.dll
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.AssemblyInfoInputs.cache
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.AssemblyInfo.cs
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.csproj.CoreCompileInputs.cache
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.dll
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.pdb
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.genruntimeconfig.cache
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.dll
+D:\Ipmb_Game\Ipmb_Game\bin\Debug\netcoreapp3.1\Ipmb_Game.pdb
+D:\Ipmb_Game\Ipmb_Game\obj\Debug\netcoreapp3.1\Ipmb_Game.csproj.AssemblyReference.cache
